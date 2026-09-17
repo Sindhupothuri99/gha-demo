@@ -8,3 +8,4 @@ jobs:
         run: |
           echo "hello world"
           echo "this is github actions"
+          echo "this is clonning files"
