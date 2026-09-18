@@ -1,4 +1,4 @@
-name: vars
+name: push
 on: push
 jobs:
   build: 
