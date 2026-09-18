@@ -5,4 +5,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Hello Step
-        run: echo "Hello, ${{secrets.CLOUD_PASSWORD}}"
+        run: echo "***, ${{secrets.CLOUD_PASSWORD}}"
